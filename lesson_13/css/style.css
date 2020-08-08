@@ -1,0 +1,71 @@
+body{
+	font: 10pt Arial;
+}
+.window{
+	width: 570px;
+	height: 570px;
+	background-color: #ebf4f4;
+
+	position: absolute; 
+	top: 50%; 
+ 	transform: translate(0, -50%) ;
+	left: 50%;
+	margin-left: -285px;
+}
+
+
+.form{
+	width: 320px;
+	height: 370px;
+	background-color: white;
+	position: absolute; 
+	top: 50%; 
+ 	transform: translate(0, -50%) ;
+	left: 50%;
+	margin-left: -160px;
+	text-align: left;
+}
+p{
+
+	margin-left: 30px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+.email{
+
+	margin-top: 46px;
+}
+
+input{
+	height: 30px;
+	margin-left: 30px;
+	background-color: #ebf4f4;
+	border: none;
+	width: 260px;
+	padding: 0px;
+}
+button{
+	margin-left: 30px;
+	background-color: #01b3b3;
+	border: none;
+	color: white;
+	text-transform: uppercase;
+}
+.btnCreate{
+
+	position: fixed; 
+	margin-top: -50px;
+	width: 160px;
+	height: 26px;
+}
+.btnReg{
+
+	width: 260px;
+	height: 45px;
+	border-radius: 3px;
+	margin-top: 30px;
+}
+em{
+
+	color: #01b3b3;
+}
