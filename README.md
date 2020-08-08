@@ -16,3 +16,5 @@
 [урок 9](https://sergei-rubec.github.io/lesson_9 "урок 9")
 
 [урок 10](https://sergei-rubec.github.io/lesson_10 "урок 10")
+
+[урок 13](https://sergei-rubec.github.io/lesson_13 "урок 13")
