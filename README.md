@@ -19,4 +19,6 @@
 
 [урок 13](https://sergei-rubec.github.io/lesson_13 "урок 13")
 
+[урок 14](https://sergei-rubec.github.io/lesson_14 "урок 14")
+
 [практика часть 1](https://sergei-rubec.github.io/praktika_1 "практика часть 1")
