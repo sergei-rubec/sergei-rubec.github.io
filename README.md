@@ -26,3 +26,5 @@
 [практика часть 1](https://sergei-rubec.github.io/praktika_1 "практика часть 1")
 
 [практика часть 2](https://sergei-rubec.github.io/praktika_2 "практика часть 2")
+
+[практика часть 3](https://sergei-rubec.github.io/praktika_3 "практика часть 3")
