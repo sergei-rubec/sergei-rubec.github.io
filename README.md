@@ -25,6 +25,8 @@
 
 [урок 16](https://sergei-rubec.github.io/lesson_16 "урок 16")
 
+[урок 17](https://sergei-rubec.github.io/lesson_17 "урок 17")
+
 [практика часть 1](https://sergei-rubec.github.io/praktika_1 "практика часть 1")
 
 [практика часть 2](https://sergei-rubec.github.io/praktika_2 "практика часть 2")
