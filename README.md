@@ -35,3 +35,4 @@
 
 [практика часть 4](https://sergei-rubec.github.io/praktika_4 "практика часть 4")
 
+[практика часть 5](https://sergei-rubec.github.io/praktika_5 "практика часть 5")
